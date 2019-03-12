@@ -15,7 +15,7 @@
 <table>
 <c:forEach items="${boardList}" var="blist">
 <tr>
-<td>번sasa호</td>
+<td>번호</td>
 <td>제목</td>
 <td>내용</td>
 <td>작성일</td>
