@@ -9,7 +9,7 @@ import org.springframework.stereotype.Repository;
 import com.jjy.board.Vo.BoardVO;
 
 @Repository
-public class BoardDAO {//dddddddd
+public class BoardDAO {//dddddddddassafasfasfasf
 
 	@Autowired
 	private SqlSessionTemplate sqlSession;
